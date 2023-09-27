@@ -1,0 +1,71 @@
+
+.nav_bar_section ul li a{
+    font-size:22px;
+    font-weight: 450;
+}
+.promo h3 {
+    font-size: 17px;
+    line-height: 22px;
+}
+.promo-desc > span {
+    font-size: 13px;
+    line-height: 20px;
+}
+.promo-action {
+    position: relative;
+    right: auto;
+    top: 0;
+    margin: 12px auto 0;
+    max-width: none;
+
+}
+.yk h1 {
+
+    text-align: center;
+    
+}
+.ll h2 {
+    text-align: center;
+
+}
+.ii h5 {
+    text-align: center;
+}
+.pp h6 {
+    text-align: center;
+
+}
+.connect-outer a{
+    font-size: 30px;
+    padding: 10px;
+}
+.footer_item ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+.footer_item ul {
+    list-style-type: none;
+    
+}
+.footer_item ul li a{
+    color: #060606;
+    text-decoration: none;
+    
+}
+.recent-post img{
+    padding: 0 20px 0 0;
+}
+.follow a{
+    padding: 8px;
+    font-size: 25px;
+    color: rgb(219, 148, 55);
+}
+.footer{
+    background-color:antiquewhite;
+}
+.prodact{
+    background-color:aliceblue;
+}
+
